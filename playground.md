@@ -5,7 +5,7 @@ This file is used to practice Git workflows:
 - branches
 - commits
 - merges
-- conflicts
+- c o n f l i c t s
 - rebase
 
 ## Notes
