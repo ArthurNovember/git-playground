@@ -7,3 +7,8 @@ This file is used to practice Git workflows:
 - merges
 - conflicts
 - rebase
+
+## Notes
+
+- practicing branches
+- practicing commits
