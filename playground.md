@@ -14,3 +14,4 @@ This file is used to practice Git workflows:
 - practicing commits
 - new change
 - new change 2
+  -Conflict lilne: FEATURE
