@@ -12,6 +12,7 @@ This file is used to practice Git workflows:
 
 - practicing branches
 - practicing commits
+  Conflict line: MAIN
 - new change
 - new change 2
   -Conflict lilne: FEATURE
